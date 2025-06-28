@@ -65,4 +65,3 @@ This project demonstrates an **end-to-end data pipeline** for processing Netflix
 | `Data/`               | Sample input data files                           |
 | `Databricks_notebooks/` | Databricks notebooks for transformation/analysis  |
 | `parameter_file/`     | ADF parameter files for dynamic configuration     |
-| `pipelinescreenshots/`| Screenshots of pipelines, workflows, architecture |
